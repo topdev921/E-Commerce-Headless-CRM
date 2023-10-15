@@ -31,19 +31,19 @@ The aim of this project is to create a scalable and flexible e-commerce platform
 
 ## Features
 * Product catalog with categories
-* User authentication and registration
 * Shopping cart functionality
 * Secure payment processing with Stripe
-* Order history and tracking
-* Product reviews and ratings
 * Search and filter products
 
 ## Screenshots
-![Home Page](screenshots/home.png)
-![Product Page](screenshots/product.png)
-![Cart Page](screenshots/cart.png)
-![Checkout Page](screenshots/checkout.png)
-![Order History](screenshots/order_history.png)
+Home Page 
+![project screenshot](shop-home.png)
+Single Item Page
+![project screenshot](single-item.png)
+Featured Products
+![project screenshot](featured.png)
+Item Categories
+![project screenshot](cat.png)
 
 ## Installation and Setup Instructions
 To set up and run the Headless E-Commerce App on your local machine, follow these steps:
@@ -65,17 +65,11 @@ To set up and run the Headless E-Commerce App on your local machine, follow thes
 ### Product Catalog
 * Browse and search for products in the catalog.
 
-### User Registration and Login
-* Register a new account or log in to your existing account.
-
 ### Shopping Cart
 * Add products to your cart and manage cart items.
 
 ### Secure Checkout
 * Complete secure checkout using Stripe for payment processing.
-
-### Order History
-* View your order history and track the status of your orders.
 
 ## Project Status
 The Headless E-Commerce App is currently in a completed state.
