@@ -81,6 +81,4 @@ The Headless E-Commerce App is currently in a completed state.
 ## Acknowledgements
 Special thanks to the Strapi and Stripe development communities for their support and resources.
 
-## Contact
-Created by Abeer Ahmed [LinkedIn profile](https://www.linkedin.com/in/abeerwebdev/) - feel free to contact me.
 
